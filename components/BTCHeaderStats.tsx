@@ -20,9 +20,11 @@ export default function BTCHeaderStats({ data }: Props) {
     prevPrice.current = current
   }, [data?.lastPrice])
 
-  const percent = data?.price24hPcnt
-    ? (Number(data.price24hPcnt) * 100).toFixed(2)
-    : "0"
+  const percentValue = data?.price24hPcnt
+    ? Number(data.price24hPcnt) * 100
+    : 0
+
+  const percent = percentValue.toFixed(2)
 
   return (
     <div className="w-full border border-[rgb(var(--border))] rounded-lg mb-6">
