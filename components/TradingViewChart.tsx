@@ -22,6 +22,7 @@ export default function TradingViewChart() {
         width: "100%",
         height: 500,
         style: "3",
+        backgroundColor: theme === "dark" ? "#09090b" : "#f8fafc",
       })
     }
 
