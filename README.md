@@ -19,7 +19,7 @@ and dark theme support.
 <h2>Application Preview</h2>
 
 <p align="center">
-<img src="public/btc-dashboard.png" alt="BTC Dashboard Screenshot" width="100%" />
+<img src="public/BTC-Dashboard-RealTime.png" alt="BTC Dashboard Screenshot" width="100%" />
 </p>
 
 <hr />
