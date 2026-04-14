@@ -182,20 +182,3 @@ http://localhost:3000
 </pre>
 
 <hr/>
-
-<h2>Estimated Time Spent</h2>
-
-<p>
-Approximately 6–8 hours were spent on implementing the dashboard including WebSocket integration,
-UI development, TradingView chart integration, theme support, and additional features.
-</p>
-
-<hr/>
-
-<h2>Notes</h2>
-
-<p>
-This project was developed as part of a technical assignment and follows the specified requirements
-including real-time WebSocket data streaming, dynamic UI updates, TradingView chart integration,
-theme support, and additional features such as sparkline visualization and connection monitoring.
-</p>
